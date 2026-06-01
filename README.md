@@ -14,4 +14,6 @@
 
 ##API INTEGRATION
 
+#OUTPUT
 
+<img width="626" height="626" alt="Image" src="https://github.com/user-attachments/assets/2f70dee6-5b63-48c8-97ba-e03907e489c7" />
